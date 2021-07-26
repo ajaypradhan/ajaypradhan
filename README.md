@@ -3,8 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaypradhan" alt="ajaypradhan" /></a> </p> -->
 
-- 🔭 I’m currently working on [Advance ToDo List](https://github.com/ajaypradhan/Advance-ToDo-List) using [Express](https://expressjs.com/) and [EJS](https://ejs.co/)
-
+- 🔭 I’m currently working on [Blog Website](https://github.com/ajaypradhan/Blog-Website)
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
