@@ -4,7 +4,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaypradhan" alt="ajaypradhan" /></a> </p> -->
 
 - 🔭 I’m currently working on [Secrets](https://github.com/ajaypradhan/Secrets)
-- 🌱 I’m currently learning **Mongoose and React**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
