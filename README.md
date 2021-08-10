@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaypradhan" alt="ajaypradhan" /></a> </p> -->
 
-- 🔭 I’m currently working on [50 Days 50 Project](https://github.com/ajaypradhan/50-days-50-projects)
+- 🔭 I’m currently working on [Netflix Clone](https://github.com/ajaypradhan/Netflix-Clone)
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
