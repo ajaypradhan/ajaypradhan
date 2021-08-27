@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaypradhan" alt="ajaypradhan" /></a> </p> -->
 
-- 🔭 I’m currently working on [Airbnb Clone](https://github.com/ajaypradhan/airbnb-clone)
+- 🔭 I’m currently working on [Facebook Clone](https://github.com/ajaypradhan/Facebook-Clone)
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
