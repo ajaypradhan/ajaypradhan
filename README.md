@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Mern Chat App](https://github.com/ajaypradhan/mern-chat-app) -->
 - 🌱 I’m currently learning **Alpine.js**
 
-- 👯 I’m looking to collaborate on **Open Source Project**
+- 👯 I’m looking to collaborate on **Open Source Project and collaborations**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajaypradhan](https://github.com/ajaypradhan)
 
