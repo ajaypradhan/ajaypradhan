@@ -4,7 +4,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaypradhan" alt="ajaypradhan" /></a> </p> -->
 <!-- 
 - 🔭 I’m currently working on [Mern Chat App](https://github.com/ajaypradhan/mern-chat-app) -->
-- 🌱 I’m currently learning **Alpine.js**
+- 🌱 I’m currently learning **React js**
 
 - 👯 I’m looking to collaborate on **Open Source Project and collaborations**
 
